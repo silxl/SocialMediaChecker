@@ -62,7 +62,7 @@ class ChecK():
         print("[+] Snapchat [+]")
         print("")
         r = requests.Session()
-        url = "https://accounts.snapchat.com/accounts/merlin/login"
+        url = "https://accounts.snapchat.com/accounts/merlin/login" # this API doesn't work anymore , but i'll keep it for learning . 
         r.headers = {
         'Host': 'accounts.snapchat.com',
         'Accept': 'application/json, text/plain, */*',
