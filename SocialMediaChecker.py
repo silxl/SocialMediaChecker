@@ -98,7 +98,6 @@ if __name__ == "__main__":
           [ Twitter - Instagram - Snapchat ]
         ======================================= 
         [+] Programming By : Remax Alghamdi . |
-        [+] Instagram: @OQO .                 |
         [+] Discord : Remax#6666 .            |
         [+] Github : Fah4d .                  |
         =======================================
